@@ -27,5 +27,5 @@ To determine which keywords are most relevant to your organization, you should i
 JavaScript Deobfuscator is an online deobfuscator that eliminates popular js obfuscation methods and returns a program's obfuscated source code to a simple readable form. It is a robust deobfuscator program capable of recovering obfuscated js code and converting it to native source code. Javascript deobfuscation is a critical step in software development that many developers miss.
 
 
-[ico converter] (https://www.seosniffer.com/ico-converter)
+[ico converter](https://www.seosniffer.com/ico-converter)
 a simple converter that converts photos to icons
